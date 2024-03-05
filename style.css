@@ -61,7 +61,7 @@ main{
     padding-bottom: 20px;
 }
 
-.strong{
+.title-list{
     font-size: 1.5em;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -76,4 +76,10 @@ span{
     background-color: rgb(10, 164, 164);
     padding: 5px;
     border-radius: 6px;
+    font-size: 0.6em;
+}
+
+.simbolo{
+   list-style:"\1F44D";
+   margin-left: 30px;
 }
