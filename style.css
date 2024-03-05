@@ -31,8 +31,8 @@ img{
 
 main{
     background-color: white;
-    margin-left: 25%;
-    margin-right: 25%;
+    margin-left: 20%;
+    margin-right: 20%;
     margin-top: 50px;
 }
 
@@ -123,3 +123,9 @@ span{
     border-radius: 6px;
     font-size: 0.6em;
 }
+
+.simbolo2{
+    list-style:"\1F44E";
+    margin-left: 30px;
+    margin-top: 7px;
+ }
